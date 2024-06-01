@@ -2,4 +2,6 @@
 
 DarkSound is a bot of Discord for playing music of YouTube.
 
-![DarkSound3](https://github.com/zEstebanz/dark-sound/assets/96276543/8c7411dd-e01d-4d38-8d45-6c1f6ce41617)
+<img width='100px' heigh='100px'>
+![Diseño_sin_título-removebg-preview](https://github.com/zEstebanz/dark-sound/assets/96276543/23038760-d391-49dd-abad-669912a7b286)
+</img>
